@@ -1,0 +1,15 @@
+.author-container {
+    display: flex;
+    align-items: center; 
+}
+
+.profile-picture {
+    width: 250px; 
+    height: 380px;
+    border-radius: 10px; 
+    margin-right: 20px;
+}
+
+.author-info {
+    text-align: left;
+}
